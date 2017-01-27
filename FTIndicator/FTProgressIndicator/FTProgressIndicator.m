@@ -16,7 +16,7 @@
 #define kFTProgressImageSize                        (30.f)
 #define kFTProgressImageToLabel                     (15.f)
 #define kFTProgressCornerRadius                     (10.f)
-#define kFTProgressDefaultAnimationDuration         (0.2f)
+#define kFTProgressDefaultAnimationDuration         (0.0f)
 #define kFTProgressDefaultFont                      [UIFont systemFontOfSize:15]
 #define kFTProgressDefaultTextColor                 [UIColor blackColor]
 #define kFTProgressDefaultTextColor_ForDarkStyle    [UIColor whiteColor]
